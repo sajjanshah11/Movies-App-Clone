@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Table.css"],"names":[],"mappings":"AAAA,YACI,oBAAqB,CACrB,UAAY,CACZ,WACJ","file":"main.62a714e1.chunk.css","sourcesContent":[".delete-btn{\r\n    background-color: red;\r\n    color: white;\r\n    border: none;\r\n}"]}
